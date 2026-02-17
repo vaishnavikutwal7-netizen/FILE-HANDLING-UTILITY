@@ -23,3 +23,7 @@ Reading file content using BufferedReader
 Modifying file content using Files and Paths (NIO package)
 
 Exception handling using try-catch blocks
+
+#OUTPUT
+
+![Image](https://github.com/user-attachments/assets/705d767b-4b63-44ab-a602-622046830eca)
